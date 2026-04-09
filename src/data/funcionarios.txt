@@ -1,0 +1,20 @@
+[
+  {
+    "id": "377",
+    "nome": "Joao",
+    "telefone": "12988963011",
+    "endereco": "djaio, nkfjsnd ",
+    "usuario": "vtl",
+    "senha": "vtl123",
+    "nivelPermissao": "ADMINISTRADOR"
+  },
+  {
+    "id": "222",
+    "nome": "Vinz",
+    "telefone": "312312",
+    "endereco": "sdajfnas",
+    "usuario": "kdoas",
+    "senha": "soakd",
+    "nivelPermissao": "ENGENHEIRO"
+  }
+]

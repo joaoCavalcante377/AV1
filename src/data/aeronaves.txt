@@ -1,0 +1,12 @@
+[
+  {
+    "codigo": "2123",
+    "modelo": "boeing",
+    "tipo": "MILITAR",
+    "capacidade": 10000,
+    "alcance": 20000,
+    "pecas": [],
+    "etapas": [],
+    "testes": []
+  }
+]
