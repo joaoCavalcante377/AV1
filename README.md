@@ -3,7 +3,6 @@
 Clone ou baixe o projeto, acesse a pasta e instale as dependências:
  
 ```bash
-cd AV1
 npm install
 ```
  
