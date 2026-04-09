@@ -1,6 +1,6 @@
 ## Instalação
  
-Clone ou baixe o projeto, acesse a pasta e instale as dependências:
+Clone ou baixe o projeto, instale as dependências:
  
 ```bash
 npm install
